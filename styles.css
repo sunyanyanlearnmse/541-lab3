@@ -10,7 +10,7 @@ body {
   max-width: 450px; /* Limit max width */ 
   margin: 80px auto;
   padding: 30px;
-  background-color: #fff;
+  background-color: #ffffff00;
   border-radius: 10px; 
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); 
 }
@@ -35,7 +35,7 @@ h1 {
 #tip-form input[type="range"] {
   width: 100%; 
   padding: 10px;
-  border: 2px solid #ff9800; 
+  border: 2px solid #ff9900d9; 
   border-radius: 5px;
   font-size: 16px;
   box-sizing: border-box; /* Include padding and border in width calculation */
@@ -45,7 +45,7 @@ h1 {
 #tip-form input[type="text"]:focus,
 #tip-form input[type="range"]:focus {
   outline: none;
-  border-color: #e53935; 
+  border-color: #e53835e6; 
 }
 
 #tip-form input[type="text"][disabled] {
@@ -56,7 +56,7 @@ h1 {
 /* Media query for mobile screens */
 @media only screen and (max-width: 600px) {
   .calculator-container {
-    width: 95%; /* Scale up for better use of space */
+    width: 90%; /* Scale up for better use of space */
     padding: 20px; /* Slightly reduced padding */
   }
 
