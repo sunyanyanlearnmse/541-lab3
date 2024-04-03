@@ -32,7 +32,7 @@ h1 {
 
 #tip-form input[type="text"],
 #tip-form input[type="range"] {
-  width: 100%;
+  width: 80%;
   padding: 10px;
   border: 2px solid #ff9800; /* Orange border */
   border-radius: 5px;
