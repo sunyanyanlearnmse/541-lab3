@@ -50,3 +50,11 @@ border-color: #e53935;
 background-color: #f5f5f5;
 color: #888; 
 }
+
+/* Media query for mobile screens */
+@media only screen and (max-width: 600px) {
+  form {
+      width: 100%;
+      padding: 10px;
+  }
+}
