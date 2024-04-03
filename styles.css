@@ -54,8 +54,8 @@ h1 {
 /* Media query for mobile screens */
 @media only screen and (max-width: 600px) {
   .calculator-container {
-    width: 80%;
-    height: 80%;
+    width: 50%;
+    height: 50%;
     padding: 10px;
   }
 }
